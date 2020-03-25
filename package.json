@@ -1,0 +1,11 @@
+{
+  "name": "@bigegg/qywx-js-sdk",
+  "version": "1.0.0",
+  "description": "企业微信JS-SDK 1.2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
