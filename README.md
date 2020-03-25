@@ -3,9 +3,9 @@ js源码: http://res.wx.qq.com/open/js/jweixin-1.2.0.js
 
 安装:
 ```    
-    npm install weixin-js-sdk
+    npm install @bigegg/qywx-js-sdk
 ```    
 使用:
 ```
-var wx = require('weixin-js-sdk');
+var wx = require('@bigegg/qywx-js-sdk');
 ```

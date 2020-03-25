@@ -1,6 +1,6 @@
 {
   "name": "@bigegg/qywx-js-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "企业微信JS-SDK 1.2.0",
   "main": "index.js",
   "scripts": {
